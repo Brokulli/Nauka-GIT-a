@@ -6,3 +6,5 @@ Konfiguracja GIT-a
 
 # Git - dalej
 Zmiany za posrednictwen GitHub
+
+# Poczatki Pythona
