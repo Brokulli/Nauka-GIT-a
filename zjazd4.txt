@@ -14,11 +14,13 @@ teraz po wpisaniu np. git+spacja+tab+tab wyświetla nam wszystkie możliwe komen
 
 CONTINUOUS
 
-continuous integration --> continuous delivery -->
+continuous integration --> continuous delivery --> continuous deployment
+
+--> continuous integration
 
 działający continuous integration jest najwyższym priorytetem
 na continuous integration wrzuca się także testy
 
-CURL
-curl -o - -s "%{http_code}\n" http://localhost
-wyświetla głównie kod http
+--> continuous delivery
+
+--> continuous deployment
