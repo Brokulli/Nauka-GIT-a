@@ -1,0 +1,10 @@
+https://www.cyberciti.biz/faq/fedora-redhat-scientific-linuxenable-bash-completion/
+
+jako admin (su) wklejamy --> # yum install bash-completion bash-completion-extras
+
+uruchamiamy basha ponownie
+wpisujemy --> atom ~/.bashrc
+
+i w nim na końcu wklejamy --> source /etc/profile.d/bash_completion.sh
+
+teraz po wpisaniu np. git+spacja+tab+tab wyświetla nam wszystkie możliwe komendy z gitem
