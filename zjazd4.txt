@@ -1,0 +1,17 @@
+INSTALACJA ROZSZERZENIA DO BASHA
+
+https://www.cyberciti.biz/faq/fedora-redhat-scientific-linuxenable-bash-completion/
+
+jako root (su) wklejamy --> # yum install bash-completion bash-completion-extras
+
+uruchamiamy basha ponownie LUB wracamy na usera ctrl+d
+wpisujemy --> atom ~/.bashrc
+
+i w pliku w atomie na końcu wklejamy --> source /etc/profile.d/bash_completion.sh
+
+teraz po wpisaniu np. git+spacja+tab+tab wyświetla nam wszystkie możliwe komendy z gitem (lub czymś innym)
+
+
+CONTINUOUS
+
+continuous integration --> continuous delivery --> 
