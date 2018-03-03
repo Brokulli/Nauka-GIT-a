@@ -23,4 +23,8 @@ na continuous integration wrzuca się także testy
 
 --> continuous delivery
 
+przygotowuje wszystko w celu dostarczenia do klienta
+
 --> continuous deployment
+
+dostarczenie do klienta
