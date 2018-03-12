@@ -47,10 +47,6 @@ class TestStringMethods(unittest.TestCase):
         k=kato.f3(2)
         self.assertEqual(k,'dwa')
 
-        
-        
-        
-        
     def test_f1_11(self):
         k=kato.f3(3)
         self.assertEqual(k,'trzy')
