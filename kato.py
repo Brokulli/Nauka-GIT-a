@@ -48,11 +48,6 @@ def f5(a1,a2=1):
     x = range(a1)
     return x[::a2]
 
-
-
-
-
-
 def f6(a1,a2):
     return a1*a2
 
