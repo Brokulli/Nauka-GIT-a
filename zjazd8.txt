@@ -1,6 +1,6 @@
 quiz - what is:
 
-- technical dept
+- technical debt (also known as design debt or code debt)
   - dług technologiczny
   - pożyczka, którą będzie trzeba spłacić
 
@@ -13,3 +13,14 @@ quiz - what is:
 - softwere craftsmnaship
 
 - conway's law
+
+
+DevOps
+
+- andon cord
+   a manufacturing term referring to a system to notify management,
+   maintenance, and other workers of a quality or process problem
+
+- rollouts
+
+- dark launch
