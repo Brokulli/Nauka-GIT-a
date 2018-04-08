@@ -1,0 +1,11 @@
+make test
+
+make lint
+
+make run_docker # odpala dockera
+
+TARET=127.0.0.1:8000 make test_ui # odpala selenium
+
+
+after
+  make upload_test_resoult
