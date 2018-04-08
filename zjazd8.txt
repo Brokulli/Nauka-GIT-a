@@ -1,0 +1,15 @@
+quiz - what is:
+
+- technical dept
+  - dług technologiczny
+  - pożyczka, którą będzie trzeba spłacić
+
+- feature creep
+  - produkt tonie
+
+- death march
+  - marsz śmierci
+
+- softwere craftsmnaship
+
+- conway's law
